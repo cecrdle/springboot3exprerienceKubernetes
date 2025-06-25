@@ -7,14 +7,14 @@
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>3.1.4</version>
     </parent>
-    <groupId>cz.littlestar.kubernates.testapp</groupId>
+    <groupId>cz.littlestar.kubernetes.testapp</groupId>
     <artifactId>springboot3exprerienceKubernetes</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>springboot3exprerienceKubernetes</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>17</java.version>
-        <module.image.name>milancecrdle/springbootsamplekubernates</module.image.name>
+        <module.image.name>milancecrdle/springbootsamplekubernetes</module.image.name>
     </properties>
     <dependencies>
         <dependency>
